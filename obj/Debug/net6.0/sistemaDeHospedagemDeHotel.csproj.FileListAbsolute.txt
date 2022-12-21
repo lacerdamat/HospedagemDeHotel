@@ -1,0 +1,15 @@
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\bin\Debug\net6.0\sistemaDeHospedagemDeHotel.exe
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\bin\Debug\net6.0\sistemaDeHospedagemDeHotel.deps.json
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\bin\Debug\net6.0\sistemaDeHospedagemDeHotel.runtimeconfig.json
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\bin\Debug\net6.0\sistemaDeHospedagemDeHotel.dll
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\bin\Debug\net6.0\sistemaDeHospedagemDeHotel.pdb
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\sistemaDeHospedagemDeHotel.csproj.AssemblyReference.cache
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\sistemaDeHospedagemDeHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\sistemaDeHospedagemDeHotel.AssemblyInfoInputs.cache
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\sistemaDeHospedagemDeHotel.AssemblyInfo.cs
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\sistemaDeHospedagemDeHotel.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\sistemaDeHospedagemDeHotel.dll
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\refint\sistemaDeHospedagemDeHotel.dll
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\sistemaDeHospedagemDeHotel.pdb
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\sistemaDeHospedagemDeHotel.genruntimeconfig.cache
+C:\Users\Matheus\Programação\CSharp.Projs\sistemaDeHospedagemDeHotel\obj\Debug\net6.0\ref\sistemaDeHospedagemDeHotel.dll
