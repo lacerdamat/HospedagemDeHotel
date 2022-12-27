@@ -1,4 +1,4 @@
 ﻿using Hotel;
-
 Hospedagem p = new Hospedagem();
-p.CadastrarUsuário();
+Console.WriteLine("Bem vindo ao nosso sistema de hospedagem!");
+p.IniciarSistem();

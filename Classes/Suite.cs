@@ -7,10 +7,41 @@ namespace Hotel
 {
     public class Suite
     {
-        public string Nome { get; set; }
-        public int Capacidade { get; set; }
-        public decimal PrecoDiaria { get; set; }
-
-
+        private string _nome;
+        private int _capacidade;
+        private decimal _precodiaria;
+        public string Nome{ 
+            get => _nome;  
+            set {
+                if (value == null){
+                    Console.WriteLine("Insira um nome válido!");
+                }
+                else{
+                    value = _nome;
+                }
+            } 
+        }
+        public int Capacidade{ 
+            get => _capacidade;
+            set{
+                if (value <=0){
+                    Console.WriteLine("Insira um valor válido!");
+                }
+                else{
+                _capacidade = value;
+                }
+            }
+        }
+        public decimal PrecoDiaria{ 
+            get => _precodiaria;
+            set{
+                if (value <= 0){
+                    Console.WriteLine("Insira um valor válido!");
+                }
+                else{
+                    _precodiaria = value;
+                }
+            }
+        }
     }
 }
