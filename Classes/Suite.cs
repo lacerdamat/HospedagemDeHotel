@@ -17,7 +17,7 @@ namespace Hotel
                     Console.WriteLine("Insira um nome válido!");
                 }
                 else{
-                    value = _nome;
+                    _nome = value;
                 }
             } 
         }
